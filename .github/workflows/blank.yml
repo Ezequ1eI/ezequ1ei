@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - Main
+    - main
 
 jobs:
   generate:
